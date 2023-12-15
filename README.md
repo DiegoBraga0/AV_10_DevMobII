@@ -1,16 +1,20 @@
 # flutter_crud_operations
 
-A new Flutter project.
+Projeto em Flutter com funcionalidades basicas CRUD feitas em sqlite:
+- insert
+- select *
+- delete
 
-## Getting Started
+## Como executar
 
-This project is a starting point for a Flutter application.
+no diretorio desejado execute o comando :
+git clone https://github.com/DiegoBraga0/AV_10_DevMobII.git
 
-A few resources to get you started if this is your first Flutter project:
+após abra o projeto com :
+cd flutter_crud_operations
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+após instale as extensões necessárias com :
+flutter pub upgrade
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+apos seguir esses passos o lib/main.dart já pode ser rodado sem nenhuma interferência 
+
